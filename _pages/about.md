@@ -9,7 +9,6 @@ redirect_from:
 
 Welcome to my academic homepage.
 
-About Me
 ======
 I am currently studying at Nanjing University. This personal website is built as a course assignment, hosted on GitHub Pages.
 
