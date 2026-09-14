@@ -1,6 +1,6 @@
-、---
+---
 permalink: /
-title: "academic personal websites"
+title: "About Me"
 author_profile: true
 redirect_from: 
   - /about/
@@ -15,5 +15,5 @@ I am currently studying at Nanjing University. This personal website is built as
 
 Research Interests
 ------
-Academic research and learning
-Exploring new ideas and projects
+- Academic research and learning
+- Exploring new ideas and projects
